@@ -1,2 +1,4 @@
-# ai-research-assistant-llm-paper-recommender
-LLM-driven scientific paper recommendation system
+# AI Research Assistant: Scientific Paper Recommendation
+
+An LLM-driven paper recommender fusing section summaries and citation-context
+signals. Full code and documentation coming soon.

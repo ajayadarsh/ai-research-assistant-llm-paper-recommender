@@ -86,7 +86,7 @@ data/
   citation_contexts_reconstructed.json    LLM-reconstructed descriptions
   results/                                all evaluation output
 
-figures/                          dissertation figures and plotting code
+figures/                          dissertation figures
 dissertation/                     LaTeX source, bibliography, compiled PDF
 requirements.txt
 ```
@@ -115,9 +115,9 @@ Small artifacts are committed under `data/`. Large artifacts exceed GitHub's
 | Artifact | Size | Location |
 |:---|---:|:---|
 | Judgements, claims, communities, results | < 5 MB | `data/` |
-| SPECTER2 and BGE-M3 embeddings (`.npy`) | 29–63 MB each | *[Drive link]* |
-| Raw citation contexts (13,747 records) | 127 MB | *[Drive link]* |
-| Corpus metadata with LLM sections | 25 MB | *[Drive link]* |
+| SPECTER2 and BGE-M3 embeddings (`.npy`) | 29–63 MB each | *[https://drive.google.com/drive/folders/1HWqVtMTsD0W6B6YJM2VyyUh8v8Q8Ayof?usp=drive_link]* |
+| Raw citation contexts (13,747 records) | 127 MB | *[https://drive.google.com/file/d/16U74M3VBQs0btBHzEzkVwwM4x9ycdfI3/view?usp=drive_link]* |
+| Corpus metadata with LLM sections | 25 MB | *[https://drive.google.com/file/d/1KEIfLruIO6gSDz2tCG7_vBY690O5rDEi/view?usp=drive_link]* |
 | Source PDFs (10,453 files) | ~30 GB | not distributed |
 
 **PDFs are not redistributed.** They remain under their original arXiv
